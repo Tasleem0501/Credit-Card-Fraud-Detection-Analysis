@@ -2,7 +2,7 @@ Credit Card Fraud Detection Analysis This repository contains a detailed analysi
 
 Project Overview Credit card fraud is a growing issue in today’s digital economy. This project aims to identify patterns in fraudulent transactions and leverage these insights to improve fraud detection models. Key models include Logistic Regression, Decision Tree, and Random Forest, each contributing unique insights into the prediction of fraudulent activities.
 
-##Contents Introduction: Understanding the significance of credit card fraud detection. Data Preprocessing: Steps taken to prepare and clean the dataset. Statistical Analysis: Examination of numerical features and their distributions. Correlation Analysis: Identifying relationships between features.
+## Contents Introduction: Understanding the significance of credit card fraud detection. Data Preprocessing: Steps taken to prepare and clean the dataset. Statistical Analysis: Examination of numerical features and their distributions. Correlation Analysis: Identifying relationships between features.
 
 Machine Learning Models: Logistic Regression Decision Tree Random Forest Model Evaluation: Using metrics like ROC curve, AUC, and confusion matrix to assess performance. Feature Importance: Analysis to identify the most influential features in fraud detection. Conclusion: Summary of findings and future directions. Methodology The methodology includes:
 
